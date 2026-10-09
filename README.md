@@ -29,8 +29,8 @@ This is my FP&A Dashboard built in Power BI. It tracks Budget vs Actual with det
 - Built 15+ automated dashboards
 
 ### 📫 Contact
-- Email: divya.bharathi.finance22@gmail.com
+- Email: sekardivyabharathi22@gmail.com
 - Location: Chennai
-- LinkedIn: linkedin.com/in/divya-bharathi-47a4a2249
+- LinkedIn: linkedin.com/in/divya-bharathi-g
 
 #Finance #FP&A #PowerBI #Budgeting #VarianceAnalysis #CostAccounting
